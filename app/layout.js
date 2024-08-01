@@ -17,7 +17,7 @@ const calSans = LocalFont({
 });
 
 export const metadata = {
-  title: "Nidhish Rathore", // Update the page title here
+  title: "nidhish.dev", // Update the page title here
   description: "Your page description here",
 };
 
